@@ -11,13 +11,15 @@
 
 .subHeader__titles {
     color: #3c1917;
+    text-shadow: 1px 0px 2px #7e7d78;
 }
 
 .subHeader__paragraph {
-    font-weight: normal;
+    font-weight: 700 ;
     line-height: 2;
     text-align: center;
     color: #3c1917;
+    text-shadow: 1px 0px 2px #7e7d78;
 }
 
 .subHeader_link {
@@ -25,6 +27,7 @@
     text-decoration: none;
     margin: 30px;
     text-shadow: 0px 1px 15px #8C8E99;
+    font-weight: 700 ;
 }
 
 .subHeader_link:focus {
