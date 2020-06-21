@@ -11,6 +11,7 @@
 
 .subHeader__titles {
     color: #3c1917;
+    text-decoration: underline;
     text-shadow: 1px 0px 2px #7e7d78;
 }
 
