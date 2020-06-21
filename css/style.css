@@ -41,3 +41,7 @@ max-width: 900px;
 .picture {
     max-width: 100%;
 }
+
+.differentBackround {
+    background-color: #ecd5c848;
+}

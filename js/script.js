@@ -1,7 +1,7 @@
 console.log("Hello World");
 let button = document.querySelector(".button");
 let logo = document.querySelector(".logo");
-let body = document.querySelector("body")
+let body =document.querySelector("body")
 
 
 button.addEventListener("click", () => {
