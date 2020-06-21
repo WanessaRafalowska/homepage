@@ -1,0 +1,43 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body { 
+    background-color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    margin: 0;
+max-width: 900px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.button {
+    padding: 20px 20px;
+    color: #3c1917;
+    border: 2px solid;
+    font-weight: bold;
+    margin: 20px 0;
+    margin-right: 5px;
+    background-color: #ffffff;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #fff4d69d;
+}
+
+
+.logo {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.picture {
+    max-width: 100%;
+}

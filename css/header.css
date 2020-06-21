@@ -1,0 +1,14 @@
+.header {
+    border-bottom: 1px solid;
+    border-color: #3c1917;
+    text-align: center;
+     
+}
+
+.header__title {
+    text-align: center;
+    color: #3c1917;
+    font-weight: normal;
+    font-size: 50px;
+    margin: 30px 30px;
+}

@@ -1,0 +1,28 @@
+.footer {
+    margin-top: 25px;
+    background-color: #3c1917;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.footer__link {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0px 15px;
+    border: 1px solid transparent ;
+    text-shadow: 0px 1px 15px rgb(194, 195, 202);
+}
+
+.footer__link:focus {
+    border: 1px solid #ffffff;
+    outline: none;
+}
+
+.footer__link:hover {
+    border: 1px solid #ffffff;
+}
+
+.footer__title {
+    font-size: 18px;
+    margin-top: 5px;
+}
